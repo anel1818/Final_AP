@@ -1,6 +1,7 @@
 # Final_AP
 # Report “Human pose estimation”
 # Link to youtube video: https://youtu.be/poMycYXNfOw?feature=shared
+### The code is in posedetect.ipynb
 ### Group: IT-2204
 ### Nauruzova Anel, Korfildesova Saltanat, Bekbolat Zhanerke
 # Introduction:
